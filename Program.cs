@@ -12,7 +12,7 @@ namespace CSHttpClientSample
     static class Program
     {
         // Replace <Subscription Key> with your valid subscription key.
-        const string subscriptionKey = "891a8b1f9a7743548bb812274e375382";
+        const string subscriptionKey = "<Subscription Key";
 
         // You must use the same Azure region in your REST API method as you used to
         // get your subscription keys. 
