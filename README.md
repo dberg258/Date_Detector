@@ -1,5 +1,5 @@
 # Date Detector
-Scans images for dates and compares them with the current date. If all of the dates in the image are before the current date, the program will print invalid. If any of the dates are past the current date, the program will print valid. 
+Scans images for dates and compares them with the current date. If all of the dates in the image are earlier than the current date, the program will print invalid. If any of the dates are older than the current date, the program will print valid. 
 
 This program utilizes Microsoft Azure cognitive serivces. In order to use this program, an Azure account as well as a subscription key for cognitive services is needed.
 
